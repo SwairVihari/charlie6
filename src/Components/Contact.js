@@ -55,7 +55,7 @@ const Contact = () => {
     </ul>
 
     <p>
-      Contact Us: {`customerservice@${window.location}.com`}
+      Contact Us: {`customerservice@${window.location.hostname}.com`}
     </p>
     </>
   )
