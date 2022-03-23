@@ -1,0 +1,31 @@
+.wave{
+    text-align: center;
+    font-weight: normal;
+}
+
+.Question{
+    font-weight: normal;
+    text-align: center;
+}
+
+.Bold{
+    font-weight: bold;
+}
+
+.OptionRow{
+    /* border: 2px solid red; */
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.Option{
+   /* border: 2px solid green; */
+    text-align: center;
+    margin: 20px 20px;
+    padding: 20px 0px;
+    font-weight: bold;
+    color: white;
+background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,212,255,1) 0%, rgba(136,71,139,1) 47%);
+}

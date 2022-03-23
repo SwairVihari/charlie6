@@ -1,0 +1,32 @@
+.Header{
+    margin-bottom: 40px;
+}
+
+.imgContainer{
+
+    width: 200px;
+    height: 100px;
+    margin: 20px auto;
+}
+
+.RowText{
+    background-color: #FAFAFA;
+    padding: 50px;
+}
+
+.TextContainer{
+    text-align: center;
+}
+
+.Texth1{
+    font-weight: lighter;
+}
+
+.blue{
+    color: #389EDB;
+    font-weight: bold;
+}
+
+.TextP{
+    margin-top: 50px;
+}
