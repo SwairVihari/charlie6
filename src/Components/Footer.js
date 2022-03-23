@@ -17,7 +17,7 @@ const Footer = () => {
 
         <Row>
             <Col>
-            Copyright © www.savesmarterdaily.com 2022 | 
+            {`Copyright © ${window.location.hostname} 2022`} | 
             <a className={Styles.color} href='/terms'> Terms Of Service </a>
         | <a className={Styles.color} href='/policy'> Privacy Policy </a>
         | <a className={Styles.color} href='/contact'> Contact </a>
